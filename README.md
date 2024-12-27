@@ -1,0 +1,2 @@
+# SPAM-NEWS-DETECTION-PROJECT
+Detect news
